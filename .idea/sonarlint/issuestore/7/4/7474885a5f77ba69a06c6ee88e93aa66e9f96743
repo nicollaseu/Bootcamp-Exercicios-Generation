@@ -1,0 +1,19 @@
+
+i	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(å“Ğ¹8º±ø¤ÿ1
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ºÏ¹¯8»±ø¤ÿ1
+o
+java:S1192"MDefine a constant instead of duplicating this literal "
+O elemento " 4 times.(Ó¡Ø×ùÿÿÿÿ8¼±ø¤ÿ1
+h
+java:S1659	"KDeclare "somaSecundaria" and all following declarations on a separate line.(µ…¿¼8À±ø¤ÿ1
+I
+java:S1197	",Move the array designators [][] to the type.(µ…¿¼8È±ø¤ÿ1
+G	java:S106"+Replace this use of System.out by a logger.(û®£•8É±ø¤ÿ1
+G	java:S106"+Replace this use of System.out by a logger.(³ ŒÉ8Ê±ø¤ÿ1
+L	java:S106"+Replace this use of System.out by a logger.(Ó¡Ø×ùÿÿÿÿ8Ì±ø¤ÿ1
+G	java:S106"+Replace this use of System.out by a logger.(ÉÈÒø8Ì±ø¤ÿ1
+L	java:S106"+Replace this use of System.out by a logger.(Œğí×úÿÿÿÿ8Í±ø¤ÿ1
+G	java:S106 "+Replace this use of System.out by a logger.(îîêî8Í±ø¤ÿ1
+L	java:S106!"+Replace this use of System.out by a logger.(ÁãÖşÿÿÿÿ8Í±ø¤ÿ1
+L	java:S106#"+Replace this use of System.out by a logger.(Ö°àôûÿÿÿÿ8Í±ø¤ÿ1
+L	java:S106'"+Replace this use of System.out by a logger.(¶Óôøÿÿÿÿ8Í±ø¤ÿ1
