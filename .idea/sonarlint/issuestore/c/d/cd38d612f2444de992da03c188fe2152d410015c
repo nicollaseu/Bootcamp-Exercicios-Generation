@@ -1,0 +1,14 @@
+
+”	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Áùıÿÿÿÿ8©…·£ÿ1J$6eed4d05-490d-4fb5-b6c5-a55da1f04d85
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ºÏ¹¯8Æ…·£ÿ1J$0c213391-2040-4c0f-8393-f67d259a5fbd
+m
+java:S1659	"*Declare "vetorInteiro" on a separate line.(™Ä“Ş8å…·£ÿ1J$fafd0a33-5af0-4010-954d-74d0ff753530
+m
+java:S1197	"*Move the array designators [] to the type.(™Ä“Ş8ì…·£ÿ1J$c64b1fae-8963-4870-853c-7d609c91a073
+r	java:S106"+Replace this use of System.out by a logger.(…õàÿÿÿÿÿ8î…·£ÿ1J$54ca7f37-dbb3-4307-87ee-9f90d1a49a53
+r	java:S106"+Replace this use of System.out by a logger.(´–©¾üÿÿÿÿ8ï…·£ÿ1J$3412ccc4-72db-4830-a78f-68be374947c8
+r	java:S106"+Replace this use of System.out by a logger.(œëØ¾ÿÿÿÿÿ8ğ…·£ÿ1J$8659f7cf-f454-4048-8563-e9943b215d73
+m	java:S106"+Replace this use of System.out by a logger.(±Çëè8ñ…·£ÿ1J$6771eaf9-73db-4076-821b-e6ee1617ed42
+™
+java:S3457"Q%n should be used in place of \n to produce the platform-specific line separator.(÷ÅÕúÿÿÿÿ8•£¹£ÿ1J$06954d2f-bd0b-4c97-b732-457159fa5322
+r	java:S106"+Replace this use of System.out by a logger.(÷ÅÕúÿÿÿÿ8ô±·£ÿ1J$2ed02f7e-1843-4597-9293-a09984e4aa13

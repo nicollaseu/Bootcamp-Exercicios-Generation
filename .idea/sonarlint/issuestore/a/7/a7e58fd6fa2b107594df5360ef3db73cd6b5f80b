@@ -1,8 +1,8 @@
 
-n	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(‹™ôàÿÿÿÿÿ8ýÖ¥¢ÿ1
-v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ºÏ¹¯8‚×¥¢ÿ1
-G
-java:S3457"%String contains no format specifiers.(ËìŠ±úÿÿÿÿ8¥×¥¢ÿ1
-L	java:S106"+Replace this use of System.out by a logger.(ËìŠ±úÿÿÿÿ8¦×¥¢ÿ1
-L	java:S106"+Replace this use of System.out by a logger.(ŠË†Ÿùÿÿÿÿ8©×¥¢ÿ1
-L	java:S106"+Replace this use of System.out by a logger.(ù¹î”üÿÿÿÿ8ª×¥¢ÿ1
+”	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(‹™ôàÿÿÿÿÿ8ýÖ¥¢ÿ1J$24486db9-fe70-4684-b065-d02a21f2d9fb
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ºÏ¹¯8‚×¥¢ÿ1J$cf02ff25-5dfc-456a-b442-16098369af2b
+m
+java:S3457"%String contains no format specifiers.(ËìŠ±úÿÿÿÿ8¥×¥¢ÿ1J$d0ed1fde-155e-4df7-940d-42a67bcc7536
+r	java:S106"+Replace this use of System.out by a logger.(ËìŠ±úÿÿÿÿ8¦×¥¢ÿ1J$b4e89342-5523-4055-b8df-cca13b3efa99
+r	java:S106"+Replace this use of System.out by a logger.(ŠË†Ÿùÿÿÿÿ8©×¥¢ÿ1J$8bcd9b52-e83d-4961-a6d5-70d47fc9e48b
+r	java:S106"+Replace this use of System.out by a logger.(ù¹î”üÿÿÿÿ8ª×¥¢ÿ1J$af2c0918-9f75-4621-bacf-85a75086ee77
