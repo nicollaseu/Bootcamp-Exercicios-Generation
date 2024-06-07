@@ -1,0 +1,20 @@
+
+	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Ï‹®§8éÅ¥¥ÿ1J$bb5d74f3-bef9-4b16-845d-9ba69029f6d9
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ºÏ¹¯8éÅ¥¥ÿ1J$ca54b2de-362d-433e-a9a5-18935133d08e
+m
+java:S1659	"*Declare "numBimestres" on a separate line.(³ı©š8ïÅ¥¥ÿ1J$65c35158-8f88-4b9f-8d11-8e1247c40538
+o
+java:S1197
+",Move the array designators [][] to the type.(‰Œ£Õ8§µ¦¥ÿ1J$f3895e6d-b7c1-4a6e-aa8d-056b5c5f523a
+r
+java:S1197"*Move the array designators [] to the type.(¶Ìù•ÿÿÿÿÿ8óÅ¥¥ÿ1J$6d013006-1456-42c3-93f6-a578fd3e4ac3
+r	java:S106"+Replace this use of System.out by a logger.(ìÆöåşÿÿÿÿ8ôÅ¥¥ÿ1J$61308517-16b7-4e3a-b06e-b7eb7136c3a2
+r	java:S106"+Replace this use of System.out by a logger.(Ş©œüÿÿÿÿ8ôÅ¥¥ÿ1J$55db3ff6-a8a1-4f5a-bf15-f97760e8f10c
+r	java:S106"+Replace this use of System.out by a logger.(¿“İúÿÿÿÿ8“©§¥ÿ1J$5b4b461f-deac-4b31-bfd9-65da06c324d4
+™
+java:S3457"Q%n should be used in place of \n to produce the platform-specific line separator.(¬ÑÖÈøÿÿÿÿ8¤˜¬¥ÿ1J$69c09ac4-f55b-4d5c-abd8-98784fa2eda9
+r	java:S106"+Replace this use of System.out by a logger.(¬ÑÖÈøÿÿÿÿ8¤˜¬¥ÿ1J$b6886e29-54e7-4e39-ac1c-b801d225de25
+r	java:S106"+Replace this use of System.out by a logger.(–éë¨şÿÿÿÿ8¹®¥ÿ1J$c52ee1ec-533e-4d5a-939d-62a51810c5aa
+™
+java:S3457 "Q%n should be used in place of \n to produce the platform-specific line separator.(µ»Á£üÿÿÿÿ8¹®¥ÿ1J$c265bf5f-e79c-4d5d-95b0-3fad5dfa1d0d
+r	java:S106 "+Replace this use of System.out by a logger.(µ»Á£üÿÿÿÿ8¹®¥ÿ1J$05ba8c9b-714d-4317-8ca6-c3ca7d413619
