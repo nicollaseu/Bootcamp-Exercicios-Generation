@@ -1,24 +1,24 @@
 
-”	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Áùıÿÿÿÿ8¡˜ó’€2J$3ad89357-78cb-4d7c-bacb-9f4bb183dbb9
-œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(—›Ÿğ8¢˜ó’€2J$59125026-5fdb-4ba3-b2d2-13349c649313
+”	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Áùıÿÿÿÿ8¡˜ó’€2J$87ffc039-769f-4554-b5ae-a260b9a2b0f5
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(—›Ÿğ8¢˜ó’€2J$25a4e97d-944a-4777-a751-b9248c0e0502
 œ
-java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ûùŒ8¥˜ó’€2J$bd3b573f-22ec-4f8f-b51d-26481f840444
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ûùŒ8¥˜ó’€2J$ced1d7a9-a054-47d0-9759-06c1bc9ef73e
 ¢
-java:S1192$"_Define a constant instead of duplicating this literal " nÃ£o foi encontrado na lista." 3 times.(ïÒÉê8¨˜ó’€2J$57798325-0076-478f-aea4-5582218f0b67
+java:S1192$"_Define a constant instead of duplicating this literal " nÃ£o foi encontrado na lista." 3 times.(ïÒÉê8¨˜ó’€2J$9f565814-4c81-4499-bc54-57b4a9222641
 
-java:S1192""UDefine a constant instead of duplicating this literal " estÃ¡ na posiÃ§Ã£o " 3 times.(ˆ‡Ğòşÿÿÿÿ8©˜ó’€2J$71cafa1c-dfb8-49db-a745-035b9ba23d3f
-n
+java:S1192""UDefine a constant instead of duplicating this literal " estÃ¡ na posiÃ§Ã£o " 3 times.(ˆ‡Ğòşÿÿÿÿ8©˜ó’€2J$eaa3df4c-cade-4639-af77-3aa5d0eaa054
+”
 java:S1192""LDefine a constant instead of duplicating this literal "
-O nÃºmero " 6 times.(ˆ‡Ğòşÿÿÿÿ8œàù’€2
-m	java:S106"+Replace this use of System.out by a logger.(ÿ¼ª«8¶˜ó’€2J$ec99f6bc-01c9-49f8-a8b7-793f42a4c948
-r	java:S106 "+Replace this use of System.out by a logger.(šı‡¼ûÿÿÿÿ8·˜ó’€2J$7134403b-abc0-436e-b188-76bcbddf9108
-r	java:S106""+Replace this use of System.out by a logger.(ˆ‡Ğòşÿÿÿÿ8·˜ó’€2J$cc2c5bc2-da41-45d1-9981-95d9c4b31839
-m	java:S106$"+Replace this use of System.out by a logger.(ïÒÉê8¸˜ó’€2J$9535b9ea-4165-4c14-8b1a-82e2b9eede17
-m	java:S106'"+Replace this use of System.out by a logger.(šğ®à8¸˜ó’€2J$9bbe11e5-2d9d-42f0-95d5-e2df828711f9
-r	java:S106)"+Replace this use of System.out by a logger.(ˆ‡Ğòşÿÿÿÿ8º˜ó’€2J$0ec8bfa0-b8e5-4a64-9160-a87de81271bb
-m	java:S106+"+Replace this use of System.out by a logger.(ïÒÉê8º˜ó’€2J$a6466ed8-12aa-4ea5-a020-fac11cb74788
-r	java:S106."+Replace this use of System.out by a logger.(ôáµ¤ùÿÿÿÿ8»˜ó’€2J$2aa06d32-fcee-4420-9462-da59c02cde82
-r	java:S1067"+Replace this use of System.out by a logger.(ˆ‡Ğòşÿÿÿÿ8½˜ó’€2J$2558e562-060f-4267-8990-883837538c51
-m	java:S1069"+Replace this use of System.out by a logger.(ïÒÉê8¾˜ó’€2J$6e9fc9ab-9cec-4fb8-a791-26de20d18207
+O nÃºmero " 6 times.(ˆ‡Ğòşÿÿÿÿ8œàù’€2J$991c5201-7470-45a0-927a-8c8d6d8862db
+m	java:S106"+Replace this use of System.out by a logger.(ÿ¼ª«8¶˜ó’€2J$3a7ae081-ead4-44bd-90aa-d3a4d8117ff1
+r	java:S106 "+Replace this use of System.out by a logger.(šı‡¼ûÿÿÿÿ8·˜ó’€2J$ee3490ed-0705-4b1b-a918-f66935eb14ec
+r	java:S106""+Replace this use of System.out by a logger.(ˆ‡Ğòşÿÿÿÿ8·˜ó’€2J$465a1e4f-c89d-493a-b517-77cc3bd1c28e
+m	java:S106$"+Replace this use of System.out by a logger.(ïÒÉê8¸˜ó’€2J$4914a29c-4948-402c-948b-482097be63f2
+m	java:S106'"+Replace this use of System.out by a logger.(šğ®à8¸˜ó’€2J$3e8daaea-79b4-49c2-972e-864cfec72822
+r	java:S106)"+Replace this use of System.out by a logger.(ˆ‡Ğòşÿÿÿÿ8º˜ó’€2J$53ed59c0-6e2e-43fc-a319-3887813aabe5
+m	java:S106+"+Replace this use of System.out by a logger.(ïÒÉê8º˜ó’€2J$40d6d86a-b5a5-4a51-9104-982c49c2715a
+r	java:S106."+Replace this use of System.out by a logger.(ôáµ¤ùÿÿÿÿ8»˜ó’€2J$7707e576-dd51-44b9-b377-d845cefe444d
+r	java:S1067"+Replace this use of System.out by a logger.(ˆ‡Ğòşÿÿÿÿ8½˜ó’€2J$c16b8a7d-75c3-45a2-9597-52cf81e01c3b
+m	java:S1069"+Replace this use of System.out by a logger.(ïÒÉê8¾˜ó’€2J$e6b20bb3-076a-4ebc-868e-28005853d871
 z
-java:S1128"2Remove this unused import 'java.util.Collections'.(¢³ïÓşÿÿÿÿ8¿˜ó’€2J$ee8ad7ed-f167-415b-8556-caa272611c6d
+java:S1128"2Remove this unused import 'java.util.Collections'.(¢³ïÓşÿÿÿÿ8¿˜ó’€2J$fdb5622a-ff40-43d9-b7fa-925db0578a73
