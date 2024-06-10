@@ -1,9 +1,9 @@
 
-”	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(‹™τΰÿÿÿÿÿ8ƒν‡’€2J$deb21124-f8ba-4fd4-9b38-2ccdfa1400b8
-	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(—›π8„ν‡’€2J$e0224a13-56fb-4ac2-b9dc-19f365f334d9
+”	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(‹™τΰÿÿÿÿÿ8ƒν‡’€2J$0d5400df-5086-4760-98ba-4b6e7020e72f
+	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(—›π8„ν‡’€2J$b7492d76-aea6-481d-96ae-33bc73e3355d
 ΅
-java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(΄όλ©όÿÿÿÿ8…ν‡’€2J$be1530c7-5773-4101-9efd-32dd4ad0d497
-r	java:S106"+Replace this use of System.out by a logger.(Ί‹€ψÿÿÿÿ8•ν‡’€2J$13feba5a-f66d-405b-80bd-5ffef18d2095
-r	java:S106"+Replace this use of System.out by a logger.(Ωªχ¤όÿÿÿÿ8–ν‡’€2J$eac5bd28-b44b-4470-8e9b-2e62530b5b13
-r	java:S106"+Replace this use of System.out by a logger.(ΎΖςλόÿÿÿÿ8ν‡’€2J$64f9e3af-6347-4668-93a4-2d60db8117d1
-m	java:S106"+Replace this use of System.out by a logger.(Μ„™–8ο΄‹’€2J$268feda8-9c86-4e9a-8887-0d570c3be5b9
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(΄όλ©όÿÿÿÿ8…ν‡’€2J$0eac23f7-02a5-458b-9ea7-40859689c3f8
+r	java:S106"+Replace this use of System.out by a logger.(Ί‹€ψÿÿÿÿ8•ν‡’€2J$ac6d9811-2f07-4c41-96b6-e165d328f688
+r	java:S106"+Replace this use of System.out by a logger.(Ωªχ¤όÿÿÿÿ8–ν‡’€2J$b4732199-fbf0-4399-a2e9-65394da5492a
+r	java:S106"+Replace this use of System.out by a logger.(ΎΖςλόÿÿÿÿ8ν‡’€2J$a65cc619-2773-4950-9c17-c0bbe00a4663
+m	java:S106"+Replace this use of System.out by a logger.(Μ„™–8ο΄‹’€2J$787a1d40-7409-4954-88de-a28f2aa6a7d2
