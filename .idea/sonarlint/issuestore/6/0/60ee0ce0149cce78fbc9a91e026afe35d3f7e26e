@@ -1,0 +1,19 @@
+
+”	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Áùıÿÿÿÿ8‡ØôŸ€2J$20f636df-b584-4513-bb8b-a82fb6b059fd
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(”ÄÆ8Á¦óŸ€2J$45302aa4-8f85-4fe8-ab35-541ce9132237
+v
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(°››ò8ûœ÷Ÿ€2
+m
+java:S1149"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(°››ò8‡÷Ÿ€2
+G	java:S106"+Replace this use of System.out by a logger.(Îñë8÷Ÿ€2
+E
+java:S5665"(Remove this unnecessary escape sequence.(ò¿Ïú8÷Ÿ€2
+L	java:S106"+Replace this use of System.out by a logger.(ªò Åûÿÿÿÿ8”÷Ÿ€2
+G	java:S106"+Replace this use of System.out by a logger.(ï®èã8–÷Ÿ€2
+G	java:S106""+Replace this use of System.out by a logger.(‹®ÿü8—÷Ÿ€2
+G	java:S106$"+Replace this use of System.out by a logger.(°õÚ¤8—÷Ÿ€2
+L	java:S106&"+Replace this use of System.out by a logger.(Œ´ñËüÿÿÿÿ8™÷Ÿ€2
+G	java:S106,"+Replace this use of System.out by a logger.(ÁÏ¹ö8›÷Ÿ€2
+L	java:S106/"+Replace this use of System.out by a logger.(ñ§¬Ùüÿÿÿÿ8œ÷Ÿ€2
+L	java:S1063"+Replace this use of System.out by a logger.(ë¥ùœùÿÿÿÿ8œ÷Ÿ€2
+L	java:S1066"+Replace this use of System.out by a logger.(Şš¶Ûıÿÿÿÿ8œ÷Ÿ€2
