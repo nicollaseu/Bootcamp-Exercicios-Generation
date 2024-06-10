@@ -1,0 +1,17 @@
+
+”	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(‹™ôàÿÿÿÿÿ8“Ú¤Ÿ€2J$b1926682-ee11-46cc-8a00-892c1b0ad0fb
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(”ÄÆ8¤Ú¤Ÿ€2J$a094e20c-3b4e-465e-b5f1-06389f18c40c
+›
+java:S2293	"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÔïÂY8¡Ü¤Ÿ€2J$887866dc-87e3-4f95-aad7-0d5335f46886
+m	java:S106"+Replace this use of System.out by a logger.(Îñë8£Ü¤Ÿ€2J$0ecd0e8d-50c6-4b34-acf7-d6fb78871d4b
+k
+java:S5665"(Remove this unnecessary escape sequence.(³Ùü“8£Ü¤Ÿ€2J$bddcbc36-7ac6-4928-ba71-ebb83550ea2a
+i	java:S131""Add a default case to this switch.(õÙÆ‚úÿÿÿÿ8¤Ü¤Ÿ€2J$b4beeef4-c643-4e24-bdc9-87bf55ed6330
+l	java:S106"+Replace this use of System.out by a logger.(Á‰>8¤Ü¤Ÿ€2J$9fce86c0-224b-4df0-9c2e-20b937327098
+r	java:S106"+Replace this use of System.out by a logger.(á„ØÚùÿÿÿÿ8¤Ü¤Ÿ€2J$bc7130cb-e4c1-4b96-a023-91db609ef592
+m	java:S106#"+Replace this use of System.out by a logger.(ÕàÙ¿8ªÜ¤Ÿ€2J$2383077e-398f-4ffc-ad91-4ac74ae82f96
+m	java:S106%"+Replace this use of System.out by a logger.(ÁğÂÂ8«Ü¤Ÿ€2J$2cb78e5e-4368-42bd-8a58-ca7b0d0a8e15
+r	java:S106'"+Replace this use of System.out by a logger.(¡³¨Œøÿÿÿÿ8æİ¤Ÿ€2J$7b8c8b1a-53d9-47fb-b7d2-2b58c3f23c61
+r	java:S106-"+Replace this use of System.out by a logger.(ÁÂÔìûÿÿÿÿ8¡Ş¤Ÿ€2J$4248ef21-4b17-4ae1-8ba2-41b19ddb7082
+r	java:S1060"+Replace this use of System.out by a logger.(‡¦Œ¯ıÿÿÿÿ8«Ş¤Ÿ€2J$716b86c9-a658-4858-91ef-00137ef1b43b
+r	java:S1064"+Replace this use of System.out by a logger.(ìÂ”¢ıÿÿÿÿ8ÍŞ¤Ÿ€2J$f8eee789-a4e5-4a9b-8793-2e3198e80c32
