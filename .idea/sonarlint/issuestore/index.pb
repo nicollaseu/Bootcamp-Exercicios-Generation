@@ -11,3 +11,5 @@ H
 src/javaBasico4/ex3.java,7\4\7474885a5f77ba69a06c6ee88e93aa66e9f96743
 H
 src/javaBasico4/ex4.java,b\e\be9a18839392ef0531151ddadc8ab8e5c90f8698
+H
+src/javaBasico5/ex1.java,b\b\bb3f210ba3faef9b00fcc43077005d4a26eaaa6a
