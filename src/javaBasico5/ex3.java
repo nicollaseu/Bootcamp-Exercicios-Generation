@@ -7,25 +7,35 @@ import java.util.Set;
 public class ex3 {
     public static void main(String[] args) {
 
-        Set<Integer> numeros = new HashSet<Integer>();
-        Scanner sc = new Scanner(System.in);
+        Scanner scanner = new Scanner(System.in);
 
-        int numero;
+        int [][] matriz = new int[3][3];
+        int somaP = 0, somaS = 0;
 
-        for (int i = 0; i < 10; i++) {
-            System.out.println("Digite um número inteiro: ");
-            numero = sc.nextInt();
-            numeros.add(numero);
+        System.out.println("Digite os elementos da matriz: ");
+        for (int linha = 0; linha < 3; linha++) {
+            for (int coluna = 0; coluna < 3; coluna++) {
+                System.out.println("[Linha " + linha + "] [Coluna " + coluna + "]:");
+                matriz[linha][coluna] = scanner.nextInt();
+            }
+        }
+        System.out.println("Elementos da Diagonal Principal: ");
+        for (int linha = 0; linha < 3; linha++) {
+            System.out.println(matriz[linha][linha]);
         }
 
-        System.out.println("\nMétodo 1- Listar dados do set: " + numeros);
-
-        System.out.println("\nMétodo 2- Listar dados do set com Iterator");
-
-        Iterator<Integer> inumeros = numeros.iterator();
-
-        while (inumeros.hasNext() ) {
-            System.out.println(inumeros.next());
+        System.out.println("Elementos da Diagonal Secundária: ");
+        for (int linha = 0; linha < 3; linha++) {
+            System.out.println(linha + (2 - linha) + matriz[linha][2 - linha]);
         }
+        for (int linha = 0; linha < 3; linha++) {
+            somaP += matriz[linha][linha];
+        }
+        System.out.println("Soma dos Elementos da Diagonal Principal: " + somaP);
+
+        for (int linha = 0; linha < 3; linha++) {
+            somaS += matriz[linha][2 - linha];
+        }
+        System.out.println("Soma dos Elementos da Diagonal Secundária: " + somaS);
     }
-}
+    }

@@ -1,10 +1,19 @@
 
-	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(å“Ğ¹8Œâ¨“€2J$1b2fed91-917e-44d3-a3e9-c5c5ba0a0afd
-œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(—›Ÿğ8Œâ¨“€2J$2da3ff81-b4e6-4247-b984-b7cc4ade535a
-›
-java:S2293
-"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ä8â¨“€2J$c9d7fba4-88a9-4348-8158-1b6c1809468f
-r	java:S106"+Replace this use of System.out by a logger.(˜Œø–şÿÿÿÿ8’â¨“€2J$9ad89745-df23-42dc-931e-dc55089e9a28
-m	java:S106"+Replace this use of System.out by a logger.(ùø†¡8“â¨“€2J$0bb7ecb8-1e49-43a5-a856-24f69bf837d7
-r	java:S106"+Replace this use of System.out by a logger.(„†„Îüÿÿÿÿ8“â¨“€2J$257cfbac-18ff-4243-9265-48f4ea79d37c
-r	java:S106"+Replace this use of System.out by a logger.(ÖåëĞûÿÿÿÿ8Ö†©“€2J$96aa806f-a4e0-4bbe-8860-7b668d83944b
+i	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(å“Ğ¹8¸á× €2
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(—›Ÿğ8Êá× €2
+@
+java:S1659"#Declare "somaS" on a separate line.(–ÕÈ¤8ßá× €2
+L	java:S106"+Replace this use of System.out by a logger.(ñÈäòøÿÿÿÿ8ëá× €2
+L	java:S106"+Replace this use of System.out by a logger.(±‰ĞŠşÿÿÿÿ8íá× €2
+G	java:S106"+Replace this use of System.out by a logger.(Êôé–8ôá× €2
+G	java:S106"+Replace this use of System.out by a logger.(„‹´Î8øá× €2
+L	java:S106"+Replace this use of System.out by a logger.(ƒËéÎüÿÿÿÿ8øá× €2
+L	java:S106"+Replace this use of System.out by a logger.(İäµĞüÿÿÿÿ8úá× €2
+L	java:S106""+Replace this use of System.out by a logger.(Å·ˆÚüÿÿÿÿ8üá× €2
+F	java:S106'"+Replace this use of System.out by a logger.(ğ®éX8ıá× €2
+J
+java:S1128".Remove this unused import 'java.util.HashSet'.(Ê‚êX8ıá× €2
+L
+java:S1128"/Remove this unused import 'java.util.Iterator'.(¥ÍòÕ8ıá× €2
+L
+java:S1128"*Remove this unused import 'java.util.Set'.(ö²„¤şÿÿÿÿ8şá× €2
