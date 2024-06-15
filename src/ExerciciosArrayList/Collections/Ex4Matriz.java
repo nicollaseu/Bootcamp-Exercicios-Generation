@@ -1,9 +1,9 @@
-package javaBasico5;
+package ExerciciosArrayList.Collections;
 import java.util.HashSet;
 import java.util.Scanner;
 import java.util.Set;
 
-public class ex4 {
+public class Ex4Matriz {
     public static void main(String[] args) {
 
         Set<Integer> numeros = new HashSet<Integer>();

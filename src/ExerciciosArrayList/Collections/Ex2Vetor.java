@@ -1,11 +1,10 @@
-package javaBasico5;
+package ExerciciosArrayList.Collections;
 import java.util.ArrayList;
-import java.util.Collections;
 import java.util.Scanner;
 
 
 
-public class ex2 {
+public class Ex2Vetor {
     public static void main(String[] args) {
 
         ArrayList<Integer> numeros = new ArrayList<Integer>();

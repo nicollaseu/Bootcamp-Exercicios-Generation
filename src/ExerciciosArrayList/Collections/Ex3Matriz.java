@@ -1,10 +1,7 @@
-package javaBasico5;
-import java.util.HashSet;
-import java.util.Iterator;
+package ExerciciosArrayList.Collections;
 import java.util.Scanner;
-import java.util.Set;
 
-public class ex3 {
+public class Ex3Matriz {
     public static void main(String[] args) {
 
         Scanner scanner = new Scanner(System.in);

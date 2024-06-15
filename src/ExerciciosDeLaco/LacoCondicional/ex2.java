@@ -1,4 +1,4 @@
-package javaBasico2;
+package ExerciciosDeLaco.LacoCondicional;
 
 import java.util.Scanner;
 

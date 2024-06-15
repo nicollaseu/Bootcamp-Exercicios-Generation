@@ -1,7 +1,7 @@
-package javaBasico3;
+package ExerciciosDeRepeticao;
 import java.util.Scanner;
 
-public class ex1 {
+public class Ex1For {
     public static void main(String[] args) {
         Scanner leia = new Scanner(System.in);
 

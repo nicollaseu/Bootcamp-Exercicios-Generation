@@ -1,8 +1,8 @@
-package javaBasico3;
+package ExerciciosDeRepeticao;
 
 import java.util.Scanner;
 
-public class ex3 {
+public class Ex3While {
     public static void main(String[] args) {
             Scanner scanner = new Scanner(System.in);
 

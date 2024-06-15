@@ -1,8 +1,8 @@
-package javaBasico6;
+package ExerciciosArrayList.EstruturaDeDados;
 import java.util.Scanner;
 import java.util.Stack;
 
-public class ex2 {
+public class Ex2Pilha {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         Stack<String> pilha = new Stack<String>();

@@ -1,7 +1,7 @@
-package javaBasico3;
+package ExerciciosDeRepeticao;
 import java.util.Scanner;
 
-public class ex6 {
+public class Ex6DoWhile {
     public static void main(String[] args) {
 
         float num, media, contNum = 0, contMul = 0;

@@ -1,7 +1,7 @@
-package javaBasico5;
+package ExerciciosArrayList.Collections;
 import java.util.*;
 
-public class ex1 {
+public class Ex1Vetor {
     public static void main(String[] args) {
 
         ArrayList<String> cores = new ArrayList<String>();

@@ -1,7 +1,7 @@
-package javaBasico3;
+package ExerciciosDeRepeticao;
 import java.util.Scanner;
 
-public class ex5 {
+public class Ex5DoWhile {
     public static void main(String[] args) {
 
         int num, contNum = 0;

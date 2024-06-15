@@ -1,7 +1,7 @@
-package javaBasico4;
+package ExerciciosDeArrays;
 import java.util.Scanner;
 
-public class ex1 {
+public class Ex1Vetor {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 

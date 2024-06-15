@@ -1,8 +1,8 @@
-package javaBasico3;
+package ExerciciosDeRepeticao;
 
 import java.util.Scanner;
 
-public class ex4 {
+public class Ex4While {
     public static void main(String[] args) {
 
         float idadeMedia, idade, id, area, contador1 = 0, contador2 = 0, contador3 = 0, contador4 = 0, contadorPes = 0, contadorIdade = 0;

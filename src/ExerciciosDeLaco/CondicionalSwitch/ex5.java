@@ -1,4 +1,4 @@
-package javaBasico2;
+package ExerciciosDeLaco.CondicionalSwitch;
 import java.util.Scanner;
 
 public class ex5 {

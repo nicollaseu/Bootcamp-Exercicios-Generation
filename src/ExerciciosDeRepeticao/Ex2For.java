@@ -1,8 +1,8 @@
-package javaBasico3;
+package ExerciciosDeRepeticao;
 
 import java.util.Scanner;
 
-public class ex2 {
+public class Ex2For {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         int numero, contImpar = 0, contPar = 0;
